@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e19ec08de4fb94bbc35e32e1b36fa3, type: 3}
+  m_Name: compasec
+  m_EditorClassIdentifier: 
+  dialogue:
+  - You use the key on the compass. The arrow stops turning and shows you the way.
+    You can continue your journey.
+  dialogue_two:
+  - "\u0432\u044B \u0441\u043A\u0430\u0440\u044B\u0441\u0442\u0430\u0435\u0446\u0435
+    \u043A\u043B\u044E\u0447 \u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u0441\u0435.
+    \u0441\u0442\u0440\u044D\u043B\u043A\u0430 \u043F\u0435\u0440\u0430\u0441\u0442\u0430\u0435
+    \u043A\u0440\u0443\u0446\u0456\u0446\u0446\u0430 \u0456 \u043F\u0430\u043A\u0430\u0437\u0432\u0430\u0435
+    \u0448\u043B\u044F\u0445. \u0432\u044B \u043C\u043E\u0436\u0430\u0446\u0435 \u043F\u0440\u0430\u0446\u044F\u0433\u043D\u0443\u0446\u044C
+    \u0441\u0432\u0430\u0451 \u043F\u0430\u0434\u0430\u0440\u043E\u0436\u0436\u0430."
+  responces: []
+  HasNext: 0
+  dialogOdject: {fileID: 0}
+  Has_Name: 0
+  Has_Consequense: 0
+  Repetition: 0
+  ThisLineWillHaveResponses: 0

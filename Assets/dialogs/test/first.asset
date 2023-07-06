@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e19ec08de4fb94bbc35e32e1b36fa3, type: 3}
+  m_Name: first
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'And I saw when the Lamb opened one of the seals, and I heard, as it were the
+    noise of thunder, one of the four beasts saying, Come and see. And I saw, and
+    behold a white horse: and he that sat on him had a bow; and a crown was given
+    unto him: and he went forth'
+  dialogue_two: []
+  responces:
+  - responseText: response one
+    dialogOdject: {fileID: 11400000, guid: 4e89138f0de568f48bce4357eb6c9909, type: 2}
+  HasNext: 0
+  dialogOdject: {fileID: 0}
+  Has_Name: 0
+  Has_Consequense: 0
+  Repetition: 0
+  ThisLineWillHaveResponses: 1

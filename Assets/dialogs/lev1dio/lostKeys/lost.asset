@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e19ec08de4fb94bbc35e32e1b36fa3, type: 3}
+  m_Name: lost
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Old Lady:
+
+    Oh, deer I think I have misplaced my keys again. Can you help
+    me look for them?'
+  - '*:
+
+    Sure. Do you have any idea where they can be? '
+  - 'Old Lady:
+
+    I think they must be somewhere around here.'
+  dialogue_two:
+  - "\u041F\u0430\u0436\u044B\u043B\u0430\u044F \u0434\u0430\u043C\u0430:\r\n\u041E,
+    \u0434\u0430\u0440\u0430\u0436\u044D\u043D\u044C\u043A\u0430\u044F, \u0437\u0434\u0430\u0435\u0446\u0446\u0430,
+    \u044F \u0437\u043D\u043E\u045E \u0441\u0442\u0440\u0430\u0446\u0456\u043B\u0430
+    \u043A\u043B\u044E\u0447\u044B. \u041C\u043E\u0436\u0430\u0448 \u0434\u0430\u043F\u0430\u043C\u0430\u0433\u0447\u044B
+    \u043C\u043D\u0435 \u0437\u043D\u0430\u0439\u0441\u0446\u0456 \u0456\u0445?"
+  - "*:\r\n\u0412\u044F\u0434\u043E\u043C\u0430. \u0423 \u0432\u0430\u0441 \u0451\u0441\u0446\u044C
+    \u0437\u0434\u0430\u0433\u0430\u0434\u043A\u0430, \u0434\u0437\u0435 \u044F\u043D\u044B
+    \u043C\u043E\u0433\u0443\u0446\u044C \u0431\u044B\u0446\u044C?"
+  - "\u041F\u0430\u0436\u044B\u043B\u0430\u044F \u0434\u0430\u043C\u0430:\r\n\u0414\u0443\u043C\u0430\u044E,
+    \u044F\u043D\u044B \u043F\u0430\u0432\u0456\u043D\u043D\u044B \u0431\u044B\u0446\u044C
+    \u043D\u0435\u0434\u0437\u0435 \u0442\u0443\u0442."
+  responces: []
+  HasNext: 0
+  dialogOdject: {fileID: 0}
+  Has_Name: 1
+  Has_Consequense: 1
+  Repetition: 0
+  ThisLineWillHaveResponses: 0

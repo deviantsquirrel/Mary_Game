@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e19ec08de4fb94bbc35e32e1b36fa3, type: 3}
+  m_Name: Charlie name
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'You:
+
+    My name is *.'
+  - 'Old Lady:
+
+    What a pretty name. '
+  dialogue_two:
+  - "\u0422\u044B:\r\n\u041C\u044F\u043D\u0435 \u043A\u043B\u0456\u0447\u0443\u0446\u044C
+    *."
+  - "\u041F\u0430\u0436\u044B\u043B\u0430\u044F \u0434\u0430\u043C\u0430:\r\n\u042F\u043A\u043E\u0435
+    \u043F\u0440\u044B\u0433\u043E\u0436\u0430\u0435 \u0456\u043C\u044F."
+  responces: []
+  HasNext: 1
+  dialogOdject: {fileID: 11400000, guid: 9d4714a4495d81b42ae76bf632713ea9, type: 2}
+  Has_Name: 1
+  Has_Consequense: 0
+  Repetition: 0
+  ThisLineWillHaveResponses: 0
