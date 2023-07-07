@@ -9,7 +9,7 @@ Video below is an example of gameplay:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/SoWt_XlbURQ/0.jpg)]
 
-(https://www.youtube.com/watch?v=SoWt_XlbURQ) "Mary")
+https://www.youtube.com/watch?v=SoWt_XlbURQ - "Mary"
 
 //Spoilers below
 
