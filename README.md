@@ -6,6 +6,7 @@ As the story progresses the protagonist will discover more information about the
 The game is planned to have 5 levels, but now it consists of 2. 
 
 Video below is an example of gameplay: 
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/SoWt_XlbURQ/0.jpg)]
 
 (https://www.youtube.com/watch?v=SoWt_XlbURQ) "Mary")
